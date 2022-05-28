@@ -1,7 +1,7 @@
 # Solution-for-elevatorsaga
 ***two solutions for elevatorsaga***
 
-solution1 is more simple for logic.
+solution2 is more simple for logic. less than 100 lines
 
 for chanllenge 18:[challenge](https://play.elevatorsaga.com/#challenge=18)
 
